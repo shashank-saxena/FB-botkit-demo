@@ -1,0 +1,15 @@
+{
+  "name": "chatbots",
+  "version": "1.0.0",
+  "description": "NA",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botkit": "^0.6.1"
+  }
+}
